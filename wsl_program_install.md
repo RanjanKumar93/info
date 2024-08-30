@@ -139,5 +139,3 @@ Installing software on Windows Subsystem for Linux (WSL) is similar to installin
 - **Verify installation**: Check the version of installed software.
 - **Uninstall software**: `sudo apt remove <package_name>`
 - **Install from source**: Download, build, and install the software.
-
-Feel free to ask if you have more specific questions!
