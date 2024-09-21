@@ -1,1 +1,1 @@
-# web2_info
+# info
